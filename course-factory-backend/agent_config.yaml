@@ -1,0 +1,14 @@
+research_agent:
+  agent_id: ""
+  api_key: ""
+
+curriculum_agent:
+  agent_id: ""
+  api_key: ""
+
+content_writer_agent:
+  agent_id: ""
+  api_key: ""
+
+room:
+  room_id: ""
